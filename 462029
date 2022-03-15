@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+				<head>
+				<title>assignment 3</title>
+<style>
+Body{max width:400px;
+Margin:20px;text-align:center;
+}
+h1{font-family:times new roman;
+color:green}</style>
+ </head>
+<body>
+<h1>Sign up for free</h1>
+<form>
+<input type="text" name="username " value="username">
+<br>
+<br>
+<input type="text" name="password " placeholder="password">
+<br>
+<br>
+<input type="submit" placeholder="sign up">
+</form>
+<p>forgotten password? </p>
+</body>
+</html>
